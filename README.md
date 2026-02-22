@@ -17,66 +17,40 @@
 
 <img src="https://komarev.com/ghpvc/?username=aarx4real&label=Profile+Views&color=grey&style=flat" />
 
----
-
-### 🖋️ The Philosophy
-> **"Simplicity is the ultimate sophistication."**
-*I am a student developer currently exploring the depths of data science and systems programming, building clean solutions one commit at a time.*
+</div>
 
 ---
 
 ### 🛠️ Tech Stack & Arsenal
-*Minimalist monochrome icons for a clean aesthetic*
 
+#### 🚀 Core Languages & Tools
+<div align="left">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,postgres,mysql,linux,git,github,vscode,pycharm&theme=dark" />
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Library-NumPy-white?style=for-the-badge&logo=numpy&logoColor=black" /> <img src="https://img.shields.io/badge/Library-Pandas-lightgrey?style=for-the-badge&logo=pandas&logoColor=black" /> <img src="https://img.shields.io/badge/Database-SQL-white?style=for-the-badge&logo=databricks&logoColor=black" />
-
----
-
-### 📊 GitHub Analytics
-*Data-driven insights into my coding journey*
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=aarx4real&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarx4real&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=aaaaaa" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📌 Featured Projects
-
-**🔹 AI Resume Analyzer**
-Machine learning tool that analyzes resumes against job descriptions and provides scoring insights.
-
-**🔹 Smart Attendance System**
-Face recognition based attendance system with database integration.
-
----
-
-### 📬 Connect
-
-[LinkedIn](https://linkedin.com/in/aarush-gupta-dev) | [Email](mailto:aarushgupt29@gmail.com) | [Portfolio](#)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
-
+#### 🧪 Specialized Libraries & Frameworks
+<div align="left">
+<img src="https://img.shields.io/badge/Library-NumPy-white?style=for-the-badge&logo=numpy&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Library-Pandas-lightgrey?style=for-the-badge&logo=pandas&logoColor=black" /> 
+<img src="https://img.shields.io/badge/Database-SQL-white?style=for-the-badge&logo=databricks&logoColor=black" />
 </div>
 
 ---
 
 ### 💡 Reminder To Self
 
-Consistency > Motivation  
-Depth > Hype  
-Projects > Badges  
-Skill > Aesthetic
+> *“Growth is a slow process, but quitting won’t speed it up.”*
+
+* **Consistency** > Motivation  
+* **Depth** > Hype  
+* **Projects** > Badges  
+* **Skill** > Aesthetic  
+
+<br/>
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=100&section=footer" width="100%" />
+</div>
