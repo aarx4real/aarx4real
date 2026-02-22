@@ -1,9 +1,9 @@
 <div align="center">
 
-<table background-color="#1a1a1a">
+<table width="100%">
   <tr>
-    <td style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FFFFFF&glow=true&glowColor=4A90E2&center=true&vCenter=true&width=600&height=100&lines=aarx4real;Student;AI+%2F+ML;Creative;Systems+Explorer" alt="Glowing Header" />
+    <td align="center" style="background-color: #1a1a1a; padding: 40px; border-radius: 15px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&glow=true&glowColor=4A90E2&center=true&vCenter=true&width=700&height=100&lines=Hey+there!+Aarush+here...;Learning+AI+and+ML;Ready+to+Innovate;Turning+Logic+into+Art" alt="Glowing Header" />
     </td>
   </tr>
 </table>
@@ -15,13 +15,8 @@
 <br/>
 
 ### 🐍 The Contribution Jungle
-<table border="1">
-  <tr>
-    <td style="padding: 10px; border: 2px solid #30363d; border-radius: 10px;">
-      <img src="https://github.com/aarx4real/aarx4real/blob/output/github-snake-dark.svg" alt="snake gif" />
-    </td>
-  </tr>
-</table>
+
+<img src="https://github.com/aarx4real/aarx4real/blob/output/github-snake-dark.svg" width="900px" alt="snake gif" />
 
 <br/>
 
