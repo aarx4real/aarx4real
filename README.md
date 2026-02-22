@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B0B0B0&height=180&section=header&text=Hey%20there!%20Aarush%20here...&fontSize=35&fontColor=ffffff&fontAlignY=40" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&glow=true&glowColor=ffffff&center=true&vCenter=true&width=800&height=50&lines=Learn+AI+and+ML;Ready+to+Innovate+and+Create;Turning+Logic+into+Art" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1A1A1A&background=E0E0E0&glow=true&glowColor=ffffff&center=true&vCenter=true&width=900&height=180&lines=Hey+there!+Aarush+here...;Learn+AI+and+ML;Ready+to+Innovate+and+Create;Turning+Logic+into+Art" alt="Unified Glowing Header" />
 
 <br/>
 
