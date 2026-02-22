@@ -21,20 +21,20 @@
 
 ---
 
+<div align="center">
+
 ### 🛠️ Tech Stack & Arsenal
 
 #### 🚀 Core Languages & Tools
-<div align="left">
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,postgres,mysql,linux,git,github,vscode,pycharm&theme=dark" />
-</div>
 
 <br/>
 
 #### 🧪 Specialized Libraries & Frameworks
-<div align="left">
 <img src="https://img.shields.io/badge/Library-NumPy-white?style=for-the-badge&logo=numpy&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Library-Pandas-lightgrey?style=for-the-badge&logo=pandas&logoColor=black" /> 
 <img src="https://img.shields.io/badge/Database-SQL-white?style=for-the-badge&logo=databricks&logoColor=black" />
+
 </div>
 
 ---
@@ -43,13 +43,10 @@
 
 > *“Growth is a slow process, but quitting won’t speed it up.”*
 
-* **Consistency** > Motivation  
-* **Depth** > Hype  
-* **Projects** > Badges  
-* **Skill** > Aesthetic  
-
-<br/>
-<br/>
+* **Consistency** > Motivation
+* **Depth** > Hype
+* **Projects** > Badges
+* **Skill** > Aesthetic
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=100&section=footer" width="100%" />
