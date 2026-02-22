@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FFFFFF&glow=true&glowColor=4A90E2&center=true&vCenter=true&width=600&height=100&lines=aarx4real;Student;AI+%2F+ML;Creative;Systems+Explorer" alt="Glowing Header" />
+<table background-color="#1a1a1a">
+  <tr>
+    <td style="background-color: #1a1a1a; padding: 10px; border-radius: 10px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FFFFFF&glow=true&glowColor=4A90E2&center=true&vCenter=true&width=600&height=100&lines=aarx4real;Student;AI+%2F+ML;Creative;Systems+Explorer" alt="Glowing Header" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
 
 <br/>
 
