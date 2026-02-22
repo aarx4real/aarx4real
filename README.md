@@ -1,8 +1,10 @@
-![snake gif](https://github.com/aarx4real/aarx4real/blob/output/github-snake-dark.svg)
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=aarx4real&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://github.com/aarx4real/aarx4real/blob/80f8386c48784b8ed640237c4c1d4ee21d369797/wallpaperflare.com_wallpaper%20(2).jpg" width="100%" style="border-radius: 10px;" />
+
+![snake gif](https://github.com/aarx4real/aarx4real/blob/output/github-snake-dark.svg)
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI+%7C+Systems+%7C+Performance;Building+Scalable+Ideas;Consistency+Over+Hype" />
 
@@ -170,4 +172,4 @@ Collection of optimized DSA implementations in C++.
 Consistency > Motivation  
 Depth > Hype  
 Projects > Badges  
-Skill > Aesthetic  
+Skill > Aesthetic
