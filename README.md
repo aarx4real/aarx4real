@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1a1a&height=200&section=header&text=Hey%20there!%20Aarush%20here...&fontSize=35&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFFFFF&glow=true&glowColor=4A90E2&center=true&vCenter=true&width=800&height=100&lines=Learn+AI+and+ML;Ready+to+Innovate;Turning+Logic+into+Art" alt="Glowing Subtext" />
+<table width="100%">
+  <tr>
+    <td align="center" style="background-color: #D3D3D3; padding: 40px; border-radius: 15px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1A1A1A&glow=true&glowColor=4A90E2&center=true&vCenter=true&width=900&height=100&lines=Hey+there!+Aarush+here...+Learn+AI+and+ML;Ready+to+Innovate+and+Create;Turning+Logic+into+Art" alt="Glowing Header" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
