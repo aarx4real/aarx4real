@@ -1,12 +1,6 @@
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td align="center" style="background-color: #D3D3D3; padding: 40px; border-radius: 15px;">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=1A1A1A&glow=true&glowColor=4A90E2&center=true&vCenter=true&width=900&height=100&lines=Hey+there!+Aarush+here...+Learn+AI+and+ML;Ready+to+Innovate+and+Create;Turning+Logic+into+Art" alt="Glowing Header" />
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D3D3D3&height=150&section=header&text=Hey%20there!%20Aarush%20here...%20Learn%20AI%20and%20ML&fontSize=30&animation=fadeIn&fontAlignY=50&fontColor=ffffff&desc=Ready%20to%20Innovate%20and%20Create;%20Turning%20Logic%20into%20Art&descSize=20&descAlignY=70&descColor=ffffff" width="100%" />
 
 <br/>
 
