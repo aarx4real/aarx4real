@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1A1A1A&background=E0E0E0&glow=true&glowColor=ffffff&center=true&vCenter=true&width=900&height=180&lines=Hey+there!+Aarush+here...;Learn+AI+and+ML;Ready+to+Innovate+and+Create;Turning+Logic+into+Art" alt="Unified Glowing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=1A1A1A&background=E0E0E0&glow=true&glowColor=ffffff&center=true&vCenter=true&width=900&height=180&lines=Hey+there!+Aarush+here...;Learning+AI+and+ML;Ready+to+Innovate+and+Create;Turning+Logic+into+Art" alt="Unified Glowing Header" />
 
 <br/>
 
