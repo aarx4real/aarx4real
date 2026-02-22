@@ -1,51 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=aarx4real&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=ffffff" width="100%" />
+# aarx4real
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Architecting+the+Future;Constant+Learner;Turning+Logic+into+Art" alt="Typing SVG" />
+### Building systems. Training models. Shipping ideas.
 
----
-
-### 🖋️ The Philosophy
-> **"Simplicity is the ultimate sophistication."**
-*I am a student developer currently exploring the depths of data science and systems programming, building clean solutions one commit at a time.*
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
-*Minimalist monochrome icons for a clean aesthetic*
+## 🚀 About Me
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,postgres,mysql,linux,git,github,vscode,pycharm&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Library-NumPy-white?style=for-the-badge&logo=numpy&logoColor=black" /> <img src="https://img.shields.io/badge/Library-Pandas-lightgrey?style=for-the-badge&logo=pandas&logoColor=black" /> <img src="https://img.shields.io/badge/Database-SQL-white?style=for-the-badge&logo=databricks&logoColor=black" />
+- 🎓 CSE student (AI & ML focus)
+- 🧠 Interested in data science, systems programming & performance
+- ⚡ Currently building real-world ML projects
+- 📈 Long-term goal: build scalable AI products
 
 ---
 
-### 📊 GitHub Analytics
-*Data-driven insights into my coding journey*
+## 🛠 Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=aarx4real&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="100%" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarx4real&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=aaaaaa" width="100%" />
-    </td>
-  </tr>
-</table>
+**Languages**
+`Python` `C++` `Java` `SQL`
+
+**Core Tools**
+`Git` `Linux` `PostgreSQL` `MySQL`
+
+**ML Stack**
+`NumPy` `Pandas` `Scikit-learn` *(add more as you learn)*
 
 ---
 
-### 🐍 The Contribution Jungle
-*A 3D visualization of my daily consistency*
+## 📌 Featured Projects
 
-![snake gif](https://github.com/aarx4real/aarx4real/blob/output/github-contribution-grid-snake.gif)
+### 🔹 AI Resume Analyzer
+Machine learning model that scores resumes based on job descriptions.
+
+### 🔹 Smart Attendance System
+Automated attendance tracker using face recognition.
+
+### 🔹 Data Insights Dashboard
+Interactive analytics dashboard built with Python & SQL.
+
+*(Replace with your real projects — no fake flex)*
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aarx4real&show_icons=true&theme=dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarx4real&layout=compact&theme=dark&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+## 🤝 Let’s Connect
+
+- Open to collaboration on AI/ML projects
+- Open to hackathons & serious builds
+
+---
+
+<div align="center">
+
+Consistency > Motivation.
 
 </div>
