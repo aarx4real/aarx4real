@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FFFFFF&glow=true&glowColor=4A90E2&center=true&vCenter=true&width=600&height=100&lines=aarx4real;Architecting+the+Future;AI+%7C+Systems+%7C+ML" alt="Glowing Username" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=FFFFFF&glow=true&glowColor=4A90E2&center=true&vCenter=true&width=600&height=100&lines=aarx4real;Student;AI+%2F+ML;Creative;Systems+Explorer" alt="Glowing Header" />
 
 <br/>
 
@@ -14,8 +14,6 @@
 </table>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Turning+Logic+into+Art;Building+Scalable+AI;Performance+Optimization" alt="Typing SVG" />
 
 </div>
 
