@@ -1,3 +1,5 @@
+![snake gif](https://github.com/aarx4real/aarx4real/blob/output/github-snake-dark.svg)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=aarx4real&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
