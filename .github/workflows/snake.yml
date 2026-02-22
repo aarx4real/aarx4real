@@ -70,7 +70,7 @@ jobs:
 
             dist/github-snake-dark.svg?palette=github-dark
 
-            dist/midnight-vaporwave.gif?color_snake=#a855f7&color_dots=#0d1117,#1e1b4b,#312e81,#6366f1,#c084fc
+            dist/midnight-vaporwave.gif?animation_duration=6&color_snake=#d3d3d3&color_dots=#0d1117,#1e1b4b,#312e81,#6366f1,#c084fc
 
         env:
 
