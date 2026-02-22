@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/aarx4real/aarx4real/blob/80f8386c48784b8ed640237c4c1d4ee21d369797/wallpaperflare.com_wallpaper%20(2).jpg" width="100%" style="border-radius: 10px;" />
+<div style="width: 100%; height: 250px; overflow: hidden; border-radius: 10px;">
+  <img src="https://raw.githubusercontent.com/aarx4real/aarx4real/80f8386c48784b8ed640237c4c1d4ee21d369797/wallpaperflare.com_wallpaper%20(2).jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: bottom;" />
+</div>
+
+<br/>
 
 ![snake gif](https://github.com/aarx4real/aarx4real/blob/output/github-snake-dark.svg)
 
