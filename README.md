@@ -42,7 +42,6 @@
 
 * **Consistency** > Motivation
 * **Depth** > Hype
-* **Projects** > Badges
 * **Skill** > Aesthetic
 
 <div align="center">
